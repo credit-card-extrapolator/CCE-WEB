@@ -11,6 +11,7 @@
     <title>CCE WEB</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/LOGO2.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type='text/javascript' src='//pl17679440.profitablegatetocontent.com/a5/3d/70/a53d70d3345ad4715af8fdfcdd2bd3f9.js'></script>
 </head>
 <body>
     <header>
