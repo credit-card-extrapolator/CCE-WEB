@@ -39,7 +39,16 @@
  
 
     <div class="publicidad">
-    	<script type='text/javascript' src='//pl17679440.profitablegatetocontent.com/a5/3d/70/a53d70d3345ad4715af8fdfcdd2bd3f9.js'></script>
+    	<script type="text/javascript">
+	atOptions = {
+		'key' : 'c3d0685fae0a1cb065f6cb9a02b71bf9',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/c3d0685fae0a1cb065f6cb9a02b71bf9/invoke.js"></scr' + 'ipt>');
+	</script>
     </div>
 
 
