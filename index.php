@@ -40,16 +40,7 @@
  
 
     <div class="publicidad">
-            <script type="text/javascript">
-                atOptions = {
-                    'key' : '1796c08b3e98222de2a6a0e935b9f260',
-                    'format' : 'iframe',
-                    'height' : 90,
-                    'width' : 728,
-                    'params' : {}
-                };
-                document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.displaycontentprofit.com/1796c08b3e98222de2a6a0e935b9f260/invoke.js"></scr' + 'ipt>');
-            </script>
+    	<script type='text/javascript' src='//pl17679440.profitablegatetocontent.com/a5/3d/70/a53d70d3345ad4715af8fdfcdd2bd3f9.js'></script>
     </div>
 
 
