@@ -11,6 +11,7 @@
     <title>CCE WEB</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/LOGO2.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://suggestionemphasiscourage.com/42/4d/79/424d79dfe7d87ca6418a168244731a76.js"></script>
 </head>
 <body>
     <header>
@@ -39,6 +40,16 @@
 
     <div class="publicidad">
     <a href="" rel="nofollow"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/gif/720x90_adsterra_reff.gif" /></a>
+   <script>
+    atOptions = {
+        'key' : '271f1ca28d60464339f47cbfcca95b50',
+        'format' : 'iframe',
+        'height' : 60,
+        'width' : 468,
+        'params' : {}
+    };
+    </script>
+    <script src="https://suggestionemphasiscourage.com/271f1ca28d60464339f47cbfcca95b50/invoke.js"></script>
     </div>
 
 
