@@ -35,7 +35,7 @@ body{
 .code form input{
     margin: 10px 30px;
     width:25%;
-    height: 20%;
+    height: 25%;
     border: solid #05a5db 3px;
     background:transparent;
     border-radius: 20px;
@@ -55,14 +55,16 @@ body{
      opacity: 0.5;
 } 
 
-.code form button{
-    width:10%;
-    height: 22%;
-    background: #05a5db;
-    color: whitesmoke;
-    border: 0;
-    border-radius: 10px;
-    font-size: 18px;
+.code .btn-main{
+    width:auto;
+    padding:10px 25px;
+    height:50px;
+    background:#05a5db;
+    color:whitesmoke;
+    border:0;
+    border-radius:10px;
+    font-size:18px;
+    text-align:center;
 }
 
 .code form button:hover{

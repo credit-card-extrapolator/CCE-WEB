@@ -11,7 +11,6 @@
     <title>CCE WEB</title>
     <link rel="shortcut icon" type="image/x-icon" href="images/LOGO2.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script type='text/javascript' src='//pl17679440.profitablegatetocontent.com/a5/3d/70/a53d70d3345ad4715af8fdfcdd2bd3f9.js'></script>
 </head>
 <body>
     <header>
@@ -37,19 +36,9 @@
         <?php include 'metodos.php'?>  
     </br>
     </br>
- 
 
     <div class="publicidad">
-    	<script type="text/javascript">
-	atOptions = {
-		'key' : 'c3d0685fae0a1cb065f6cb9a02b71bf9',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedisplayformat.com/c3d0685fae0a1cb065f6cb9a02b71bf9/invoke.js"></scr' + 'ipt>');
-	</script>
+    <a href="" rel="nofollow"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/gif/720x90_adsterra_reff.gif" /></a>
     </div>
 
 
@@ -61,6 +50,7 @@
             <div class="social" ><a target="_blank" href="https://github.com/credit-card-extrapolator/CCE-WEB"><i class="fab fa-github"></i></a></div>
             <div class="social" ><a target="_blank" href="https://credit-card-extrapolator.github.io/CCE/index.html#acerca_de"><i class="fas fa-info-circle"></i></a></div>
         </div>
+        
         <div class="descargar">
             <a target="_blank" href="https://credit-card-extrapolator.github.io/CCE/index.html">Descargar para pc</a>
         </div>

@@ -20,7 +20,13 @@
 		<h3>Elegiste el metodo Basico por favor introduce la CC,</br>
 		para mas información sobre los metodos dar click <a href='https://n9.cl/4ha0' >aqui.</a></h3>
 		<input target='_blank' type='text' name='cc' maxlength='16'  placeholder='Coloca tu cc' >
-		<button>Extrapolar</button>
+		<button class='btn-main'>Extrapolar</button>
+		</br>
+		<div>
+    		<a href='https://suggestionemphasiscourage.com/mzhrqjy8?key=178af11f99c9c006b37562ed412915c5' target='_blank'>
+        		<button class='btn-main' type='button'>Generate Card</button>
+    		</a>
+		</div>
 		</form>";}
 
 			#--------------------------------------
@@ -33,7 +39,13 @@
 				<h3>Elegiste el metodo Activación por favor introduce la CC,</br>
 				para mas información sobre los metodos dar click <a href='https://n9.cl/4ha0' >aqui.</a></h3>   
 				<input type='text' name='cc_activacion' maxlength='16'  placeholder='Coloca tu cc' >
-				<button>Extrapolar</button>
+				<button class='btn-main'>Extrapolar</button>
+				</br>
+				<div>
+					<a href='https://suggestionemphasiscourage.com/mzhrqjy8?key=178af11f99c9c006b37562ed412915c5' target='_blank'>
+						<button class='btn-main' type='button'>Generate Card</button>
+					</a>
+				</div>
 				</form>";}
 
 					#--------------------------------------
@@ -46,7 +58,13 @@
 						para mas información sobre los metodos dar click <a href='https://n9.cl/4ha0' >aqui.</a></h3>    
 						<input type='text' name='cc_similitud' maxlength='16'  placeholder='Coloca tu primera cc' >
 						<input type='text' name='cc_similitud2' maxlength='16'  placeholder='Coloca tu segunda cc' >
-						<button>Extrapolar</button>
+						<button class='btn-main'>Extrapolar</button>
+						</br>
+						<div>
+							<a href='https://suggestionemphasiscourage.com/mzhrqjy8?key=178af11f99c9c006b37562ed412915c5' target='_blank'>
+								<button class='btn-main' type='button'>Generate Card</button>
+							</a>
+						</div>
 						</form>";}
 
 							#--------------------------------------
@@ -58,7 +76,13 @@
 								<h3>Elegiste el metodo Identación por favor introduce la CC,</br>
 								para mas información sobre los metodos dar click <a href='https://n9.cl/4ha0' >aqui.</a></h3>
 								<input type='text' name='cc_identacion' maxlength='16'  placeholder='Coloca tu cc' >
-								<button>Extrapolar</button>
+								<button class='btn-main'>Extrapolar</button>
+								</br>
+								<div>
+									<a href='https://suggestionemphasiscourage.com/mzhrqjy8?key=178af11f99c9c006b37562ed412915c5' target='_blank'>
+										<button class='btn-main' type='button'>Generate Card</button>
+									</a>
+								</div>
 								</form>";}
 
 									#--------------------------------------
@@ -71,7 +95,13 @@
 										para mas información sobre los metodos dar click <a href='https://n9.cl/4ha0' >aqui.</a></h3>    
 										<input type='text' name='cc_sophia' maxlength='16'  placeholder='Coloca tu primera cc' >
 										<input type='text' name='cc_sophia2' maxlength='16'  placeholder='Coloca tu segunda cc' >
-										<button>Extrapolar</button>
+										<button class='btn-main'>Extrapolar</button>
+										</br>
+										<div>
+											<a href='https://suggestionemphasiscourage.com/mzhrqjy8?key=178af11f99c9c006b37562ed412915c5' target='_blank'>
+												<button class='btn-main' type='button'>Generate Card</button>
+											</a>
+										</div>
 										</form>";}
 
 											#--------------------------------------
@@ -82,7 +112,13 @@
 												<form method='post' action='metodos/digitos.php'>    
 												<h3>Para saber cuantos digitos tiene tu CC escribela y da clic en Comprobar.</h3>
 												<input type='text' name='digitos'   placeholder='Coloca tu cc' >
-												<button>Comprobar</button>
+												<button class='btn-main'>Comprobar</button>
+												</br>
+												<div>
+													<a href='https://suggestionemphasiscourage.com/mzhrqjy8?key=178af11f99c9c006b37562ed412915c5' target='_blank'>
+														<button class='btn-main' type='button'>Verificar</button>
+													</a>
+												</div>
 												</form>";};
 
 
