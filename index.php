@@ -49,7 +49,6 @@
         'params' : {}
     };
     </script>
-    <script src="https://suggestionemphasiscourage.com/271f1ca28d60464339f47cbfcca95b50/invoke.js"></script>
     </div>
 
 
